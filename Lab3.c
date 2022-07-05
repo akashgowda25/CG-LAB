@@ -122,4 +122,3 @@ void main(int argc , char **argv)
 	glutDisplayFunc(display);
 	glutMainLoop();
 }
-Footer
